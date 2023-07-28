@@ -1,4 +1,4 @@
 # AnimationThings
 
 ## Description
-Sample of animations in iOS apps using SwiftUI.
+Samples of animations in iOS apps using SwiftUI.
