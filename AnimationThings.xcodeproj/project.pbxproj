@@ -12,6 +12,7 @@
 		1265F9E52A730323000EEB5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1265F9E42A730323000EEB5D /* Assets.xcassets */; };
 		1265F9E82A730323000EEB5D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1265F9E72A730323000EEB5D /* Preview Assets.xcassets */; };
 		12F1D5FD2A7435E8008DFFF5 /* Sample00.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1D5FC2A7435E8008DFFF5 /* Sample00.swift */; };
+		12F1D5FF2A74396E008DFFF5 /* Sample01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1D5FE2A74396E008DFFF5 /* Sample01.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		1265F9E42A730323000EEB5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1265F9E72A730323000EEB5D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		12F1D5FC2A7435E8008DFFF5 /* Sample00.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample00.swift; sourceTree = "<group>"; };
+		12F1D5FE2A74396E008DFFF5 /* Sample01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample01.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				1265F9E02A730323000EEB5D /* AnimationThingsApp.swift */,
 				1265F9E22A730323000EEB5D /* ContentView.swift */,
 				12F1D5FC2A7435E8008DFFF5 /* Sample00.swift */,
+				12F1D5FE2A74396E008DFFF5 /* Sample01.swift */,
 				1265F9E42A730323000EEB5D /* Assets.xcassets */,
 				1265F9E62A730323000EEB5D /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12F1D5FF2A74396E008DFFF5 /* Sample01.swift in Sources */,
 				1265F9E32A730323000EEB5D /* ContentView.swift in Sources */,
 				12F1D5FD2A7435E8008DFFF5 /* Sample00.swift in Sources */,
 				1265F9E12A730323000EEB5D /* AnimationThingsApp.swift in Sources */,

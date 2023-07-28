@@ -9,6 +9,17 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Sample00()
+        TabView {
+            Sample00()
+            Sample01()
+        }
+        .tabViewStyle(.page)
+        .indexViewStyle(.page(backgroundDisplayMode: .always))
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
     }
 }
